@@ -15,7 +15,7 @@ var _0x3b397b = _0x26a8;
         }
     }
 })(_0x2a3d, 0xa24f6);
-var SITE_XTHOST = 'https://wormateserkanconnect.github.io';
+var SITE_XTHOST = 'https://wormateserkanconnect.github.io/wormateserkanconnect6';
 window[_0x3b397b(0x375)] = null;
 const _wormup = {
     'BETAisSkinCustom'(_0x8d25c8) {
