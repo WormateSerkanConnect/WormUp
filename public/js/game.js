@@ -15,7 +15,7 @@
         }
     }
 })(_0x2a3d, 0xa24f6);
-var SITE_XTHOST = 'https://wormatefriendsturkey.com';
+var SITE_XTHOST = 'https://wormateserkanconnect.github.io';
 window[_0x3b397b(0x375)] = null;
 const _wormup = {
     'BETAisSkinCustom'(_0x8d25c8) {
